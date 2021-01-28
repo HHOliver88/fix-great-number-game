@@ -9,5 +9,3 @@ COPY . .
 
 # happens in container
 RUN npm install -g nodemon
-
-EXPOSE 3000
